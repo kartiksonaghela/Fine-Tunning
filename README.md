@@ -1,1 +1,1 @@
-## Performerd Fine Tunning on MattBastar/Medicine_Details dataset which consist information related to Medicine and its details 
+## Performerd Fine Tunning on FineTome dataset on LLama 3.1 8b quantized model.
